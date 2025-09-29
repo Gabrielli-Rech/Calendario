@@ -1,0 +1,19 @@
+[
+    {
+        "nome": "Feriado de Tiradentes",
+        "dia": 21,
+        "mes": 4,
+        "tipo": "Feriado"
+    },
+    {
+        "nome": "Reunião de Projeto Semanal",
+        "dia": 0,
+        "tipo": "Reunião Semanal"
+    },
+    {
+        "nome": "Prova de Redes",
+        "dia": 2,
+        "mes": 10,
+        "tipo": "Aniversário"
+    }
+]
