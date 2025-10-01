@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando os seguintes conceitos e técnicas:
 3. Execute o script principal:
    python calendario.py
    
-4. Siga as instruções no terminal para:
+4. Siga as instruções no terminal para:<br>
   Visualizar o calendário de qualquer mês/ano.<br>
   Adicionar eventos.<br>
   Consultar eventos cadastrados.<br>
