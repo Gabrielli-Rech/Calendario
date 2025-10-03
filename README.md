@@ -1,10 +1,10 @@
-**# 📅 Calendário Interativo em Python**
+## 📅 Calendário Interativo em Python
 
 O **Calendário Interativo** é um projeto desenvolvido em Python com o objetivo de ajudar o usuário a visualizar calendários de qualquer mês e ano, além de gerenciar eventos importantes de forma simples. Ele é ideal para quem quer organizar compromissos e estudar como construir aplicações de terminal em Python com manipulação de datas e arquivos.
 
 ---
 
-**## 🔧 Funcionalidades**
+## 🔧 Funcionalidades
 
 - **Visualização de Calendários**: Exibe o calendário completo de qualquer mês e ano, facilitando o planejamento.
 - **Adição de Eventos**: Permite ao usuário cadastrar eventos em datas específicas.
@@ -13,7 +13,7 @@ O **Calendário Interativo** é um projeto desenvolvido em Python com o objetivo
 
 ---
 
-**## 🛠️ Como o Projeto Foi Feito**
+## 🛠️ Como o Projeto Foi Feito
 
 O projeto foi desenvolvido utilizando os seguintes conceitos e técnicas:
 
@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando os seguintes conceitos e técnicas:
 
 ---
 
-**## 🚀 Como Executar**
+## 🚀 Como Executar
 
 1. Clone este repositório:
    ```bash
@@ -41,7 +41,7 @@ O projeto foi desenvolvido utilizando os seguintes conceitos e técnicas:
   Adicionar eventos.<br>
   Consultar eventos cadastrados.<br>
 
-**📂 Estrutura do Projeto**
+## 📂 Estrutura do Projeto
 
 Calendario/<br>
 ├── calendario.py       # Script principal, onde a lógica do calendário e eventos está implementada<br>
